@@ -15,7 +15,7 @@ public class Item {
     @GeneratedValue
     private Long id;
 
-    private Long productId;
+    private String productId;
     private String name;
     private double price;
     private int quantity;
