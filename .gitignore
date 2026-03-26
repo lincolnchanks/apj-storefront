@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/apache-artemis-2.53.0/
